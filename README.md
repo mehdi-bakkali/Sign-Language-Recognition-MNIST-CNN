@@ -1,9 +1,3 @@
-# Sign Language MNIST CNN
-
-Train a convolutional neural network to classify the 24 static ASL letter
-handshapes in Kaggle's Sign Language MNIST dataset. J and Z are absent because
-they require motion.
-
 ## Setup
 
 Create a Python 3.12 virtual environment, activate it, install the dependencies,
